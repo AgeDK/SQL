@@ -1,0 +1,8 @@
+inurl:games.php?id=
+inurl:page.php?file=
+inurl:top10.php?cat=
+inurl:reagir.php?num=
+inurl:forum_bds.php?num=
+inurl:game.php?id=
+accinfo.php?cartId=
+acclogin.php?cartID=
